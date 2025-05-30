@@ -1,14 +1,29 @@
-👋 Hi, I’m Bharti Singhal
+## 👋 Hi, I’m Bharti Singhal
 
-I’m a dedicated student with a strong passion for business analytics and finance. During my internship at Birlasoft, I gained hands-on experience in leveraging tools 
-like SQL, Excel, and Power BI to extract actionable insights, build dashboards, and support strategic decision-making processes.My academic background in finance 
-gives me a solid foundation to understand the “why” behind the numbers, while my data analytics skills help me uncover the “how.” This unique blend allows me
-to approach financial challenges from both analytical and strategic perspectives.
+🎓 I’m a dedicated business analytics and finance student passionate about turning data into actionable insights.
 
-I’m continuously exploring new ways to use data to solve real-world problems and contribute to meaningful, data-driven innovations.
+💼 During my internship at **Birlasoft**, I worked hands-on with tools like **SQL**, **Excel**, and **Power BI** to:
+- Extract and transform data
+- Build interactive dashboards
+- Support strategic decision-making through analytics
 
-📌 Interests: Business Intelligence, Financial Modeling, Data Visualization, Decision Science
+📊 My academic background in **finance** helps me understand the “why” behind the numbers, while my analytics training reveals the “how.” This blend allows me to approach financial challenges from both **strategic and analytical** perspectives.
 
-🛠 Tools: SQL | Power BI | Excel | Python (Basics)
+🔍 I’m always exploring new ways to use data to solve real-world problems and create value through **data-driven innovation**.
 
-🚀 Always eager to collaborate on finance + analytics projects!
+---
+
+### 📌 Interests
+- Business Intelligence  
+- Financial Modeling  
+- Data Visualization  
+- Decision Science  
+
+### 🛠 Tools & Tech
+- SQL | Power BI | Excel  
+- Python (Basics)
+
+---
+
+🚀 **Let’s collaborate!** I'm always open to working on finance + analytics projects.
+
