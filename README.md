@@ -7,11 +7,9 @@
 - Build interactive dashboards
 - Support strategic decision-making through analytics
 
-📊 My academic background in **finance** helps me understand the “why” behind the numbers, while my analytics training reveals the “how.” This blend allows me to approach financial challenges from both **strategic and analytical** perspectives.
+📊 My academic background in **finance** & **business analytics** helps me understand the “why” behind the numbers, while my analytics training reveals the “how.” This blend allows me to approach financial challenges from both **strategic and analytical** perspectives.
 
 🔍 I’m always exploring new ways to use data to solve real-world problems and create value through **data-driven innovation**.
-
----
 
 ### 📌 Interests
 - Business Intelligence  
@@ -22,8 +20,6 @@
 ### 🛠 Tools & Tech
 - SQL | Power BI | Excel  
 - Python (Basics)
-
----
 
 🚀 **Let’s collaborate!** I'm always open to working on finance + analytics projects.
 
